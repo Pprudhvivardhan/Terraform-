@@ -1,2 +1,2 @@
-# Terraform-
+# Terraform
 Total Terraform Notes
